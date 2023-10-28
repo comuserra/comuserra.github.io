@@ -5,7 +5,7 @@ html, body {
 body {
   font-family: 'Roboto', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-size: 14px;
-  background:#0f1113 url('/img/bg.svg') bottom center no-repeat;
+  background:#0f1113 url('https://fragmentmenu.com/img/bg.svg') bottom center no-repeat;
   background-size: 100%;
   background-blend-mode: difference;
   background-attachment: fixed;
