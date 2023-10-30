@@ -1,0 +1,34 @@
+div.embed-screen {
+  --black9: #ffffff;
+  --black6: #a2aab4;
+  --black4: #ffffff;
+  --black3: #a2aab4;
+  --black2: #212121;
+  --black1: #212121;
+  --black0: #212121;
+  --white: #171717;
+  --black: #121417;
+  --purple6: #ffffff;
+}
+
+.embed-variant-header.active {
+  border-width: 2px;
+}
+
+.embed-gateway-container .gateway-list-item {
+  border-width: 2px;
+}
+
+.embed-header,
+.embed-volume,
+.embed-info-header,
+.embed-coupon-input,
+.embed-coupon-applied,
+input.sellix-input,
+.embed-back,
+.gateway-list-item,
+.embed-variant-header,
+.embed-group-header,
+.embed-addons {
+  background-color: var(--black0) !important;
+}
