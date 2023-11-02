@@ -38,7 +38,7 @@ html {
   input[type='button'],
   input[type='reset'],
   input[type='submit'] {
-    background-color: #f00c58;
+    background-color: #0000ff;
     border: 0.1rem solid #a00639;
     color: #ffffff;
     cursor: pointer;
