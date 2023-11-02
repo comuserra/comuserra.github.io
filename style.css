@@ -39,7 +39,7 @@ html {
   input[type='reset'],
   input[type='submit'] {
     background-color: #0000ff;
-    border: 0.1rem solid #ffffff;
+    border: 0.1rem solid #2ecc71;
     color: #ffffff;
     cursor: pointer;
     display: inline-block;
